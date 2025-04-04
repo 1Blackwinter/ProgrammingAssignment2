@@ -45,6 +45,8 @@ cacheSolve <- function(x, ...) {
 
 ## Testing solution
 
+setwd("C:\\Users\\ripsk\\ProgrammingAssignment2")
+
 source("cachematrix.R")
 
 m <- matrix(c(1, 2, 3, 4), 2, 2)
